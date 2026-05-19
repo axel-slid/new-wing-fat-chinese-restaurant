@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://new-wing-fat-chinese-restaurant.vercel.app/sitemap.xml
